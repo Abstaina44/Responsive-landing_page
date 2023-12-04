@@ -145,7 +145,7 @@ body {
   border-left: 8px solid #f1faee;
   font-size: 16px;
   text-transform: uppercase;
-  transition: all 400ms ease;
+  transition: all 500ms ease;
 
   opacity: 0;
 
@@ -246,4 +246,10 @@ body {
     right: 32px;
     color: #fff;
   }
+} 
+
+.hero-section p:nth-child(1){
+margin-top: 10px;
+
 }
+
